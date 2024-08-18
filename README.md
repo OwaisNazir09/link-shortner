@@ -1,4 +1,4 @@
-Here's a README file template for your Node.js link shortener project:
+
 
 ---
 
@@ -31,6 +31,10 @@ Before you begin, ensure you have the following installed:
 2. **Install dependencies**:
    ```bash
    npm install
+   npm install mongoose
+   npm install express
+   npm install short-id
+   npm install nanoid
    ```
 
 3. **Set up environment variables** (optional):
